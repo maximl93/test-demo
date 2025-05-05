@@ -1,5 +1,5 @@
-- Распаковать архив 
-- перейти в папку с распакованным проектом 
+- Скачать проект git clone https://github.com/maximl93/test-demo.git
+- перейти в папку с проектом 
 - открыть терминал 
 - выполнить команду mvn package (linux) или ./mvnw package (windows) для сборки проекта
 - запустить команду java -jar target/demo-0.0.1-SNAPSHOT.jar для запуска проекта
